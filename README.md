@@ -2,7 +2,7 @@
 
 This repository contains research and data related to Mormon-themed games, including: card games, board games, and video games.
 
-## [Board Games](board-games.md)
+## [Board Games](board-games.md)<a name="board-games"></a>
 
 - 3P2K (2000)
 - Ancestors (1979)
@@ -27,24 +27,24 @@ This repository contains research and data related to Mormon-themed games, inclu
 - Meet the Prophets (1981)
 - Missionary Blues (1981)
 - Missionary Game (1995)
-- [Mormon-Opoly (2006)](board-games.md)
+- [Mormon-Opoly (2006)](board-games.md#mormon-opoly)
 - Mortality (2002)
 - Out on a Limb (2002)
 - Progress: An L.D.S. Quiz Game (1958)
 - The "Roll" of the Missionary (1983)
 - Quest...A Family Home Evening Game (1970)
-- [The Settlers of Zarahemla (2003)](board-games.md)
+- [The Settlers of Zarahemla (2003)](board-games.md#the-settlers-of-zarahemla)
 - Split the Ward (2005)
 - Zion: The Fascinating New L.D.S. Family Quiz Game [Large Version] (1959)
 - Zion: The Fascinating New L.D.S. Family Quiz Game [Small Version] (1959)
 
-## [Card Games](card-games.md)
+## [Card Games](card-games.md)<a name="card-games"></a>
 
-- [Church Ball: The Game (2006)](card-games.md)
+- [Church Ball: The Game (2006)](card-games.md#church-ball)
 
 ## Video Games
 
-### [Android](android.md)
+### [Android](android.md)<a name="android"></a>
 
 - [Book of Mormon Adventures (2014?)](android.md)
 - [LDS Faith Game (2014)](android.md)
@@ -53,44 +53,45 @@ This repository contains research and data related to Mormon-themed games, inclu
 - [Mormons vs. Zombies (2014)](android.md)
 - [Nephi's Adventures: Jerusalem](android.md)
 
-### [Apple iOS](ios.md)
+### [Apple iOS](ios.md)<a name="ios"></a>
 
-- [Mormons vs. Zombies (2014)](ios.md)
+- [Mormons vs. Zombies (2014)](ios.md#mormons-vs-zombies)
 
-### [Apple macOS](macos.md)
+### [Apple macOS](macos.md)<a name="macos"></a>
 
-- [Lego Pirates of the Caribbean: The Video Game (2011)](macos.md)
+- [Lego Pirates of the Caribbean: The Video Game (2011)](macos.md#lego-pirates-of-the-caribbean)
 
-### [Microsoft Windows](windows.md)
+### [Microsoft Windows](windows.md)<a name="windows"></a>
 
 - [Book of Mormon Heroes: The Servant of Helaman (2015)](windows.md)
 - [Book of Mormon Heroes: The Servant of Teancum (2016)](windows.md)
 - [Fallout: New Vegas (2010)](windows.md)
 - [Lego Pirates of the Caribbean: The Video Game (2011)](windows.md)
 
-### [Microsoft Xbox](xbox.md)
+### [Microsoft Xbox](xbox.md)<a name="xbox"></a>
 
 - [Lego Pirates of the Caribbean: The Video Game (2011)](xbox.md)
 
-### [Microsoft Xbox 360](xbox.md)
+### [Microsoft Xbox 360](xbox.md)<a name="xbox-360"></a>
 
-### [Microsoft Xbox One](xbox.md)
+### [Microsoft Xbox One](xbox.md)<a name="xbox-one"></a>
 
-### [Sony PlayStation](playstation.md)
+### [Sony PlayStation](playstation.md#playstation)<a name="playstation"></a>
 
-### [Sony PlayStation 2](playstation.md)
+### [Sony PlayStation 2](playstation.md#playstation-2)<a name="playstation-2"></a>
 
-### [Sony PlayStation 3](playstation.md)
+### [Sony PlayStation 3](playstation.md#playstation-3)<a name="playstation-3"></a>
 
-- [Lego Pirates of the Caribbean: The Video Game (2011)](playstation-3.md)
+- [The Last of Us](playstation.md#the-last-of-us)
+- [Lego Pirates of the Caribbean: The Video Game (2011)](playstation.md#lego-pirates-of-the-caribbean)
 
-### [Sony PlayStation 4](playstation.md)
+### [Sony PlayStation 4](playstation.md#playstation-4)
 
-### [Sony PlayStation Portable](playstation.md)
+### [Sony PlayStation Portable](playstation.md#playstation-portable)
 
 - [Lego Pirates of the Caribbean: The Video Game (2011)](playstation.md)
 
-### [Web](web.md)
+### [Web](web.md)<a name="web"></a>
 
 - [Adopt a MormaPet (2009)](web.md)
 - [Mormons in Space (2016)](web.md)
