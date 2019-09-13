@@ -1,7 +1,8 @@
-# Mormon Games Index
-
-## macOS
-
+---
+layout: page
+title: macOS
+permalink: /macos/
+nav_order: 5
 ---
 
-## References
+# macOS
