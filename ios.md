@@ -5,8 +5,6 @@ permalink: /ios/
 nav_order: 4
 ---
 
-# iOS
-
 ## [Mormons vs. Zombies (2014)](https://www.facebook.com/MormonsvsZombies)<a name="mormons-vs-zombie"></a>
 
 > “Mormons vs. Zombies is a quirky iOS & Android game in which archetypal Mormon characters battle zombies with unusual weapons.”

@@ -5,8 +5,6 @@ permalink: /playstation/
 nav_order: 6
 ---
 
-# PlayStation
-
 ## PlayStation<a name="playstation"></a>
 
 ---

@@ -5,8 +5,6 @@ permalink: /android/
 nav_order: 1
 ---
 
-# Android
-
 ## [Book of Mormon Adventures (2014?)](https://play.google.com/store/apps/details?id=com.tegtap.bom1)
 
 > “Play as Jared and as his brother in one of your favorite Book of Mormon stories! Control Jared as he explores the Tower of Babel and its surroundings, solving puzzles all along the way. Play as the Brother of Jared in the wilderness by the seashore as he builds barges, unlocks mysteries, and prepares for a trip across the ocean to the promised land.”

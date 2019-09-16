@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About the project
 permalink: /about/
 ---
-
-# About the project
 
 This site contains research and data related to Mormon-themed games and games featuring Mormonism, including: card games, board games, and video games.
 

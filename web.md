@@ -5,8 +5,6 @@ permalink: /web/
 nav_order: 7
 ---
 
-# Web
-
 ## [Adopt a MormaPet (2009)](http://www.mormonzone.com/games/mormapet/catchpet.aspx)
 
 ---
