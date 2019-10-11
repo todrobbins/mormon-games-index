@@ -35,11 +35,8 @@ nav_order: 6
 
 - <a name="ref3"></a>Wikipedia contributors, "Lego Pirates of the Caribbean: The Video Game," Wikipedia, The Free Encyclopedia, <https://en.wikipedia.org/w/index.php?title=Lego_Pirates_of_the_Caribbean:_The_Video_Game&oldid=808805605> (accessed November 26, 2017).
 
-<br />
-
 ---
 
-<br />
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

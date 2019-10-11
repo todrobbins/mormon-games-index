@@ -15,11 +15,8 @@ nav_order: 8
 
 ## [Fallout: New Vegas (2010)](http://store.steampowered.com/app/22380/)
 
-<br />
-
 ---
 
-<br />
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

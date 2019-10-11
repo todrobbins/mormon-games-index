@@ -41,11 +41,8 @@ nav_order: 1
 
 > “Nephi's story begins in Jerusalem where he was born. Over time he went on to become a prophet and leader of his people. In this game you handle his character and you must guide him to leave Jerusalem. This is the first installment of the different stages of his life.”
 
-<br />
-
 ---
 
-<br />
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">

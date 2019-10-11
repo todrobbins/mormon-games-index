@@ -11,11 +11,8 @@ nav_order: 4
 
 - Romney, Justin. [“Mormons vs. Zombies: Mormon mom starts new video game (Updated)”](http://universe.byu.edu/2014/10/23/mormons-vs-zombies/), _The Daily Universe_ (October 23, 2014).
 
-<br />
-
 ---
 
-<br />
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
