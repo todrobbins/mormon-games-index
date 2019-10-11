@@ -23,10 +23,9 @@ email: todd.d.robbins@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site contains research and data related to Mormon-themed games and games featuring Mormonism, including: card games, board games, and video games.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://todrobbins.com/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://todrobbins.com/mormon-games-index" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: todrobbins
 github_username:  todrobbins
-footer_content: "<a href=\"https://creativecommons.org/publicdomain/zero/1.0/\">CC0</a> 2019 by <a href=\"https://todrobbins.com\">Tod Robbins</a>"
 
 # Build settings
 theme: minima
