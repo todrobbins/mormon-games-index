@@ -131,12 +131,14 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $grey-color;
-  border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  color: #828282;
+  background: #fff;
+  border: 2px solid #828282;
+  box-shadow: 4px 4px 1px #fff;
+  margin-bottom: 25px;
+  padding: 15px 10px 15px 15px;
+  font-size: 18px;
   letter-spacing: -1px;
-  font-style: italic;
 
   > :last-child {
     margin-bottom: 0;
