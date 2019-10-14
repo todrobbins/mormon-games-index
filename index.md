@@ -4,7 +4,7 @@ title: Home
 nav_exclude: true
 ---
 
-This site contains research and data related to Mormon-themed games and games featuring Mormonism, including: card games, board games, and video games.
+> This site contains research and data related to Mormon-themed games and games featuring Mormonism, including: card games, board games, and video games.
 
 ## [Board Games](board-games)<a name="board-games"></a>
 
