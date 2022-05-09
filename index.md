@@ -24,6 +24,7 @@ nav_exclude: true
 - Book of Mormon Quest (1995)
 - Crossing the Plains (1984)
 - Crossing the Plains: Experience Pioneer Life (1996)
+- [Decoding Zarahemla (2021)](board-games#decoding-zarahemla)
 - Forever Families (1980)
 - The Game of Emigration (1947)
 - Golden Questions (1963)
