@@ -5,6 +5,10 @@ permalink: /board-games/
 nav_order: 2
 ---
 
+## Decoding Zarahemla (2021)<a name="decoding-zarahemla"></a>
+
+- Cedar Fort Publishing & Media. “Decoding Zarahemla.” Accessed May 9, 2022. https://www.cedarfort.com/products/decoding-zarahemla.
+
 ## [Mormon-Opoly (2006)](https://boardgamegeek.com/boardgame/32759/mormon-opoly)<a name="mormon-opoly"></a>
 
 > “An LDS variant of Monopoly in which players compete to build churches and do good works.”
