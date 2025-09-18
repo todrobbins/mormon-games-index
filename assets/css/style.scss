@@ -8,28 +8,43 @@ details:hover {
     cursor: pointer;
 }
 
+.site-header > .games-nav > div > a {
+    line-height: 0.5rem;
+}
+
 #games-nav {
     max-width: calc(800px - 30px * 2);
     margin-right: auto;
     margin-left: auto;
-    padding: 0 30px 30px 30px;
+    padding: 0 30px;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
     gap: 1rem;
+    margin-bottom: 0.8rem;
 }
 
 #games-nav details {
     display: flex !important;
     flex-direction: column;
     justify-content: flex-start;
-    gap: 0.5rem;
+}
+
+#games-nav > details > summary:hover {
+    text-decoration: underline;
+}
+
+#games-nav > details[open] > summary {
+    color: #aaaaaa;
+    border-bottom: 1px solid #aaaaaa !important;
+    margin-bottom: 0.5em;
 }
 
 #games-nav details div {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    flex-wrap: wrap;
+    line-height: 2rem;
 }
 
 .footer-col-wrapper {
