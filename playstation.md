@@ -2,7 +2,7 @@
 layout: page
 title: PlayStation
 permalink: /playstation/
-nav_order: 6
+nav_order: 7
 ---
 
 ## PlayStation<a name="playstation"></a>

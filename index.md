@@ -8,74 +8,74 @@ nav_exclude: true
 
 ## [Board Games](board-games)<a name="board-games"></a>
 
-- 3P2K (2000)
-- Ancestors (1979)
-- Articles of Faith Card Game (2001)
-- Aye, Aye, Nephi! (2002)
-- Bishop Rick (2001)
-- Blast from the Past (2008)
-- Book of Mormon Battles (2005)
-- The Book of Mormon Card Game
-- Book of Mormon Challenge (1993)
-- Book of Mormon Characters (1974)
-- Book of Mormon Journeys (1974)
-- Book of Mormon Jungle Journey (2002)
-- Book of Mormon Quest (1993)
-- Book of Mormon Quest (1995)
-- Crossing the Plains (1984)
-- Crossing the Plains: Experience Pioneer Life (1996)
-- [Decoding Zarahemla (2021)](board-games#decoding-zarahemla)
-- Forever Families (1980)
-- The Game of Emigration (1947)
-- Golden Questions (1963)
-- LDS Church History Game (1973)
-- Meet the Prophets (1981)
-- Missionary Blues (1981)
-- Missionary Game (1995)
-- [Mormon-Opoly (2006)](board-games#mormon-opoly)
-- Mortality (2002)
-- Out on a Limb (2002)
-- Progress: An L.D.S. Quiz Game (1958)
-- The "Roll" of the Missionary (1983)
-- Quest...A Family Home Evening Game (1970)
-- [The Settlers of Zarahemla (2003)](board-games#the-settlers-of-zarahemla)
-- Split the Ward (2005)
-- Zion: The Fascinating New L.D.S. Family Quiz Game [Large Version] (1959)
-- Zion: The Fascinating New L.D.S. Family Quiz Game [Small Version] (1959)
+- _3P2K_ (2000)
+- _Ancestors_ (1979)
+- _Articles of Faith Card Game_ (2001)
+- _Aye, Aye, Nephi!_ (2002)
+- _Bishop Rick_ (2001)
+- _Blast from the Past_ (2008)
+- _Book of Mormon Battles_ (2005)
+- _The Book of Mormon Card Game_
+- _Book of Mormon Challenge_ (1993)
+- _Book of Mormon Characters_ (1974)
+- _Book of Mormon Journeys_ (1974)
+- _Book of Mormon Jungle Journey_ (2002)
+- _Book of Mormon Quest_ (1993)
+- _Book of Mormon Quest_ (1995)
+- _Crossing the Plains_ (1984)
+- _Crossing the Plains: Experience Pioneer Life_ (1996)
+- [_Decoding Zarahemla_ (2021)](board-games#decoding-zarahemla)
+- _Forever Families_ (1980)
+- _The Game of Emigration_ (1947)
+- _Golden Questions_ (1963)
+- _LDS Church History Game_ (1973)
+- _Meet the Prophets_ (1981)
+- _Missionary Blues_ (1981)
+- _Missionary Game_ (1995)
+- [_Mormon-Opoly_ (2006)](board-games#mormon-opoly)
+- _Mortality_ (2002)
+- _Out on a Limb_ (2002)
+- _Progress: An L.D.S. Quiz Game_ (1958)
+- _The "Roll" of the Missionary_ (1983)
+- _Quest...A Family Home Evening Game_ (1970)
+- [_The Settlers of Zarahemla_ (2003)](board-games#the-settlers-of-zarahemla)
+- [_Split the Ward_ (2005)](board-games#split-the-ward)
+- [_Zion: The Fascinating New L.D.S. Family Quiz Game_ (1959)](board-games#zion-the-fascinating-new-lds-family-quiz-game)
+- [_Zion: The Fascinating New L.D.S. Family Quiz Game_ (1959)](board-games#zion-the-fascinating-new-lds-family-quiz-game)
 
 ## [Card Games](card-games)<a name="card-games"></a>
 
-- [Church Ball: The Game (2006)](card-games#church-ball)
+- [_Church Ball: The Game_ (2006)](card-games#church-ball)
 
 ## Video Games
 
 ### [Android](android)<a name="android"></a>
 
-- [Book of Mormon Adventures (2014?)](android)
-- [LDS Faith Game (2014)](android)
-- [Lehi's Escape (2014)](android)
-- [Mormon Trail (2016)](android)
-- [Mormons vs. Zombies (2014)](android)
-- [Nephi's Adventures: Jerusalem](android)
+- [_Book of Mormon Adventures_ (2014?)](android)
+- [_LDS Faith Game_ (2014)](android)
+- [_Lehi's Escape_ (2014)](android)
+- [_Mormon Trail_ (2016)](android)
+- [_Mormons vs. Zombies_ (2014)](android)
+- [_Nephi's Adventures: Jerusalem_](android)
 
 ### [Apple iOS](ios)<a name="ios"></a>
 
-- [Mormons vs. Zombies (2014)](ios#mormons-vs-zombies)
+- [_Mormons vs. Zombies_ (2014)](ios#mormons-vs-zombies)
 
 ### [Apple macOS](macos)<a name="macos"></a>
 
-- [Lego Pirates of the Caribbean: The Video Game (2011)](macos#lego-pirates-of-the-caribbean)
+- [_Lego Pirates of the Caribbean: The Video Game_ (2011)](macos#lego-pirates-of-the-caribbean)
 
 ### [Microsoft Windows](windows)<a name="windows"></a>
 
-- [Book of Mormon Heroes: The Servant of Helaman (2015)](windows)
-- [Book of Mormon Heroes: The Servant of Teancum (2016)](windows)
-- [Fallout: New Vegas (2010)](windows)
-- [Lego Pirates of the Caribbean: The Video Game (2011)](windows)
+- [_Book of Mormon Heroes: The Servant of Helaman_ (2015)](windows)
+- [_Book of Mormon Heroes: The Servant of Teancum_ (2016)](windows)
+- [_Fallout: New Vegas_ (2010)](windows)
+- [_Lego Pirates of the Caribbean: The Video Game_ (2011)](windows)
 
 ### [Microsoft Xbox](xbox)<a name="xbox"></a>
 
-- [Lego Pirates of the Caribbean: The Video Game (2011)](xbox)
+- [_Lego Pirates of the Caribbean: The Video Game_ (2011)](xbox)
 
 ### [Microsoft Xbox 360](xbox)<a name="xbox-360"></a>
 
@@ -87,17 +87,17 @@ nav_exclude: true
 
 ### [Sony PlayStation 3](playstation#playstation-3)<a name="playstation-3"></a>
 
-- [The Last of Us](playstation#the-last-of-us)
-- [Lego Pirates of the Caribbean: The Video Game (2011)](playstation#lego-pirates-of-the-caribbean)
+- [_The Last of Us_ (2013)](playstation#the-last-of-us)
+- [_Lego Pirates of the Caribbean: The Video Game_ (2011)](playstation#lego-pirates-of-the-caribbean)
 
 ### [Sony PlayStation 4](playstation#playstation-4)
 
 ### [Sony PlayStation Portable](playstation#playstation-portable)
 
-- [Lego Pirates of the Caribbean: The Video Game (2011)](playstation)
+- [_Lego Pirates of the Caribbean: The Video Game_ (2011)](playstation)
 
 ### [Web](web)<a name="web"></a>
 
-- [Adopt a MormaPet (2009)](web)
-- [Mormons in Space (2016)](web)
-- [Zion or Bust (2015)](web)
+- [_Adopt a MormaPet_ (2009)](web)
+- [_Mormons in Space_ (2016)](web)
+- [_Zion or Bust_ (2015)](web)

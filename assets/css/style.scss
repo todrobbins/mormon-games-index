@@ -3,3 +3,43 @@
 ---
 
 @import "minima";
+
+details:hover {
+    cursor: pointer;
+}
+
+#games-nav {
+    max-width: calc(800px - 30px * 2);
+    margin-right: auto;
+    margin-left: auto;
+    padding: 0 30px 30px 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1rem;
+}
+
+#games-nav details {
+    display: flex !important;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
+
+#games-nav details div {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.footer-col-wrapper {
+    margin-top: 1rem;
+}
+
+.social-media-list {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    gap: 0.6rem;
+    padding-left: 1rem;
+}
